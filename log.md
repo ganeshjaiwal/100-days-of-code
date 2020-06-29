@@ -90,6 +90,39 @@ Ready to deep dive into #flutter.
 A lot of things need to learn & cover while building this app.
 
 **Link to work:** [Personal Expenses App](https://github.com/ganeshjaiwal/personal_expenses_app)
+
+### Day 12: June 25, 2020
+
+**Today's Progress**: Today I was trying to use some different color(custom color) for my app as a primarySwatch but flutter only alow Material color for that property.
+So I googled it and learned how to create custom Material color.
+
+**Link to work:** [Personal Expenses App](https://github.com/ganeshjaiwal/personal_expenses_app)
+
+### Day 13: June 26, 2020
+
+**Today's Progress**: Today I read about some advanced features about JS that are unknown to me.
+Also checked out #Flutter animations, and will be trying some in next couple of days.
+
+**Link to work:** [Personal Expenses App](https://github.com/ganeshjaiwal/personal_expenses_app)
+
+### Day 14: June 27, 2020
+
+**Today's Progress**: Created MEAN stack project from scratch, added CRUD operation to the app.
+Its fun working in #Angular #Nodejs #MongoDB #expressjs 
+MongoDB is awesome!
+Mongoose library make DB operations so easy Relieved face
+
+**Link to work:** [Personal Expenses App](https://github.com/ganeshjaiwal/personal_expenses_app)
+
+### Day 15: June 28, 2020
+
+**Today's Progress**: Started learning state management in #Flutter app.
+
+I used state management in #Angular many times.
+
+Almost all the framework uses same technique of rereading UI components depending on its states.
+
+**Link to work:** [Personal Expenses App](https://github.com/ganeshjaiwal/personal_expenses_app)
 <!-- **Link(s) to work** -->
 <!-- 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) -->
 <!-- 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
