@@ -123,6 +123,14 @@ I used state management in #Angular many times.
 Almost all the framework uses same technique of rereading UI components depending on its states.
 
 **Link to work:** [Personal Expenses App](https://github.com/ganeshjaiwal/personal_expenses_app)
+
+### Day 16: June 29, 2020
+
+**Today's Progress**: Used provider to manage the state of a #Flutter app in one place.
+I also learned about inheritance in #dart language.
+It is the same as other programming languages but #dart also provides mixin (as like interface in #Java).
+
+**Link to work:** [Personal Expenses App](https://github.com/ganeshjaiwal/personal_expenses_app)
 <!-- **Link(s) to work** -->
 <!-- 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) -->
 <!-- 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
