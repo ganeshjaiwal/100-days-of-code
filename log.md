@@ -131,6 +131,17 @@ I also learned about inheritance in #dart language.
 It is the same as other programming languages but #dart also provides mixin (as like interface in #Java).
 
 **Link to work:** [Personal Expenses App](https://github.com/ganeshjaiwal/personal_expenses_app)
+
+### Day 17: June 30, 2020
+
+**Today's Progress**: Continued on the #Flutter app. 
+Learning about state management using providers and consumers.
+Flutter provides a lot of optimized options to rerender the app.
+Using providers or consumers is totally depends on the structure of code and its use-case.
+UI can be rendered using stateful widgets.
+The best use case for using stateful widget is if changing data is only limited to the current widget.
+
+**Link to work:** [Personal Expenses App](https://github.com/ganeshjaiwal/personal_expenses_app)
 <!-- **Link(s) to work** -->
 <!-- 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) -->
 <!-- 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
