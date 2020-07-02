@@ -142,6 +142,16 @@ UI can be rendered using stateful widgets.
 The best use case for using stateful widget is if changing data is only limited to the current widget.
 
 **Link to work:** [Personal Expenses App](https://github.com/ganeshjaiwal/personal_expenses_app)
+
+### Day 18: July 1, 2020
+
+**Today's Progress**: Today I learn more about state management in #Flutter 
+Used MultiProvider to use multiple providers in a single widget.
+
+Also added badge text on the cart icon in the W2Shopee app.
+
+**Link to work:** [Personal Expenses App](https://github.com/ganeshjaiwal/personal_expenses_app)
+
 <!-- **Link(s) to work** -->
 <!-- 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) -->
 <!-- 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
