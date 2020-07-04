@@ -152,6 +152,22 @@ Also added badge text on the cart icon in the W2Shopee app.
 
 **Link to work:** [Personal Expenses App](https://github.com/ganeshjaiwal/personal_expenses_app)
 
+### Day 19: July 2, 2020
+
+**Today's Progress**: Continued on the W3Shopee app.
+Trying to designed cart page different from video lecture.
+Suggest me some design for the cart page and products grid page.
+
+**Link to work:** [Personal Expenses App](https://github.com/ganeshjaiwal/personal_expenses_app)
+
+### Day 20: July 3, 2020
+
+**Today's Progress**: Completed Cart screen with the help of providers to manage global state of app.
+Now I am little confident about my #Flutter skill.Mobile phone
+Lot things to cover next. Looking forward to do more creative things using Flutter.
+
+**Link to work:** [Personal Expenses App](https://github.com/ganeshjaiwal/personal_expenses_app)
+
 <!-- **Link(s) to work** -->
 <!-- 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) -->
 <!-- 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
