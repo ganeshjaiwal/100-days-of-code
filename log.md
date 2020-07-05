@@ -166,7 +166,16 @@ Suggest me some design for the cart page and products grid page.
 Now I am little confident about my #Flutter skill.Mobile phone
 Lot things to cover next. Looking forward to do more creative things using Flutter.
 
-**Link to work:** [Personal Expenses App](https://github.com/ganeshjaiwal/personal_expenses_app)
+### Day 21: July 4, 2020
+
+**Today's Progress**: Read some tech blogs about #javascript and about developing #chrome #extensions (advanced features). 
+Also tried firebase authentication in chrome extension.
+
+### Day 22: July 5, 2020
+
+**Today's Progress**: Today I haven't worked on my #Flutter app.
+Only tried some new #Angular Material components, like a mat dialog box with data passing in and out from Dialog box.
+Also tried some small CSS animations with SVG.
 
 <!-- **Link(s) to work** -->
 <!-- 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) -->
