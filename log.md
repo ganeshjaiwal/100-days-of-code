@@ -177,6 +177,25 @@ Also tried firebase authentication in chrome extension.
 Only tried some new #Angular Material components, like a mat dialog box with data passing in and out from Dialog box.
 Also tried some small CSS animations with SVG.
 
+### Day 23: July 6, 2020
+
+**Today's Progress**: Started working on the #Flutter app again.
+Tried Dismissible widget in flutter used almost all properties of that widget.
+
+It feels much better when I try something different than the video tutorials. (if it works perfectlyFace with hand over mouth)
+
+### Day 24: July 7, 2020
+
+**Today's Progress**: Today's day was awesome.Smiling face with heart-shaped eyes
+Worked on #flutter app, started working on the product details page.
+learn to create an image carousel.
+
+Trying to match myntra's product details page design.
+
+
+### Day 25: July 8, 2020
+
+**Today's Progress**: Continued on flutter app design.
 <!-- **Link(s) to work** -->
 <!-- 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) -->
 <!-- 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
