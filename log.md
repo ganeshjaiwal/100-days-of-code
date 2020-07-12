@@ -202,6 +202,15 @@ Trying to match myntra's product details page design.
 **Today's Progress**: Continued on #Flutter app.
 Added place order bottom sheet with some nice styling.
 
+### Day 27: July 10, 2020
+
+**Today's Progress**: Didn't worked much today.
+Finished place order in #Flutter app.
+
+### Day 28: July 11, 2020
+
+**Today's Progress**: Today I created one simple #chrome #Extension just to insert one div on the #DOM, and made it draggable anywhere on the screen.
+
 <!-- **Link(s) to work** -->
 <!-- 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) -->
 <!-- 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
