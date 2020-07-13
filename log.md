@@ -211,6 +211,11 @@ Finished place order in #Flutter app.
 
 **Today's Progress**: Today I created one simple #chrome #Extension just to insert one div on the #DOM, and made it draggable anywhere on the screen.
 
+### Day 29: July 12, 2020
+
+**Today's Progress**: Learn new things about Stripe. (client only checkout, applying trial)
+I worked on stripe previously but, newly I Implemented client-side checkout. Also used firebase functions to handle stripe webhooks.
+
 <!-- **Link(s) to work** -->
 <!-- 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) -->
 <!-- 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
